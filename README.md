@@ -27,6 +27,11 @@ ___
 Arabic: Mother tongue.
 English: Good
 
+###Hobbies:
+* Reading
+* Drawing
+* playing chess
+
 
 
 
