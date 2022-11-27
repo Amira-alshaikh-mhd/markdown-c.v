@@ -32,6 +32,8 @@ English: Good
 * Drawing
 * playing chess
 
+[image](https://github.com/Amira-alshaikh-mhd/markdown-c.v/blob/a44234485b0c0bb05a3a641f0c1c1fedc90e9eee/IMG_20221127_184622.jpg)
+
 
 
 
