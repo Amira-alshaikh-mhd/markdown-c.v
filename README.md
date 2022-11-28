@@ -1,5 +1,6 @@
 #    **C.V**                               
 ##Amira AlShaikh Mohammad
+<img src="IMG_20221127_184622.jpg" alt="Profile Picture"/>
 ---
 ### personal information:
 * Nationality:syrian.
